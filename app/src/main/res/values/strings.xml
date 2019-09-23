@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simba</string>
+    <string name="welcome">WELCOME</string>
+    <string name="logout">Logout</string>
+    <string name="phone_number">Phone number</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="cancel">CANCEL</string>
+    <string name="register">REGISTER</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="registration_form">Registration Form</string>
+</resources>
